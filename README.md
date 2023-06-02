@@ -1,2 +1,2 @@
 # hello-world
-Sé feliz y cuídate
+Soy un estudiante de Matemáticas Aplicadas y Computación en búsqueda de su primer empleo.
